@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data & Results (Không đẩy video nặng lên)
+*.mp4
+*.avi
+*.mov
+static/results/
+output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
